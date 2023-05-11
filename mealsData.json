@@ -1,0 +1,37 @@
+﻿[
+  {
+    "id" : 0,
+    "Name": "Omlette",
+    "Price": 4,
+    "Recipe": [ "eggs", "vegatables" ],
+    "Country": "Italy"
+  },
+  {
+    "id": 1,
+    "Name": "Cepelinai",
+    "Price": 7,
+    "Recipe": [ "meat", "potatoes", "milk", "salt" ],
+    "Country": "Spain"
+  },
+  {
+    "id": 2,
+    "Name": "Pizza",
+    "Price": 10,
+    "Recipe": [ "flour", "chees", "tomatoes", "peper", "water" ],
+    "Country": "Italy"
+  },
+  {
+    "id": 3,
+    "Name": "Pizza1",
+    "Price": 10,
+    "Recipe": [ "flour", "chees", "tomatoes", "peper", "water" ],
+    "Country": "Italy"
+  },
+  {
+    "id": 4,
+    "Name": "Pizza2",
+    "Price": 10,
+    "Recipe": [ "flour", "chees", "tomatoes", "peper", "water" ],
+    "Country": "Italy"
+  }
+]
