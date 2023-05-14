@@ -14,6 +14,7 @@ namespace RandomMealGenerator
         {
 
             // Example 1
+
             //string jsonFilePath = "C:\\Users\\Admin\\Desktop\\.NET kursas\\VsStudioProjects\\RandomMealGenerator\\mealsData.json";
             //string json = File.ReadAllText(jsonFilePath);
             //Meal[] meals = JsonSerializer.Deserialize<Meal[]>(json);
